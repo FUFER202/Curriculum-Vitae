@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
+  },
+  "name": "cv-app",
+  "version": "1.0.0",
+  "description": "CV",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

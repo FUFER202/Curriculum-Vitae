@@ -8,7 +8,9 @@
   "version": "1.0.0",
   "description": "CV",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
   "scripts": {
     "start": "npm run lite",
     "lite": "lite-serve",
